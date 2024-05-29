@@ -1,7 +1,3 @@
-Certainly! Here's the content formatted for a `README.md` file with a visually appealing design:
-
----
-
 # AI Certs Event Landing Page
 
 ## Step-by-Step Guide
